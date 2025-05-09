@@ -1,0 +1,70 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "title": "Space Blaster",
+      "price": 4.99,
+      "description": "Defend Earth from alien invaders in this action-packed shooter",
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "title": "Puzzle Quest",
+      "price": 2.99,
+      "description": "Challenge your brain with hundreds of mind-bending puzzles",
+      "rating": 4
+    },
+    {
+      "id": "3",
+      "title": "Adventure Island",
+      "price": 5.99,
+      "description": "Explore a vast open world full of secrets and treasures",
+      "rating": 4.8
+    },
+    {
+      "id": "4",
+      "title": "Racing Legends",
+      "price": 6.49,
+      "description": "Compete against the best drivers in high-speed races",
+      "rating": 4.3
+    },
+    {
+      "id": "6",
+      "title": "Farm Simulator",
+      "price": 4.49,
+      "description": "Build and manage your dream farm in this relaxing sim",
+      "rating": 4.2
+    },
+    {
+      "id": "7",
+      "title": "Sports All-Stars",
+      "price": 5.49,
+      "description": "Play 12 different sports in one ultimate collection",
+      "rating": 3.9
+    },
+    {
+      "id": "8",
+      "title": "Mystery Mansion",
+      "price": 3.49,
+      "description": "Solve the mystery in this thrilling detective adventure",
+      "rating": 4.7
+    },
+    {
+      "id": "9",
+      "title": "Cooking Master",
+      "price": 2.49,
+      "description": "Become a top chef in this fun cooking simulator",
+      "rating": 4.1
+    }
+  ],
+  "users": [],
+  "reviews": [
+    {
+      "id": "bed2",
+      "gameId": "1",
+      "reviewer": "ABC",
+      "comment": "VERY SMOOTH DISPLAY",
+      "rating": 5
+    }
+  ]
+}
